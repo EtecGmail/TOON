@@ -56,12 +56,6 @@ npm run format     # aplica Prettier
 
 Todos os módulos possuem cobertura básica via node:test, incluindo o validador TOON e o estimador de tokens. Execute `npm test` para validar as regras de negócio.
 
-## 🐛 Contribuindo
-
-1. Crie uma branch a partir de `work`.
-2. Garanta que lint e testes passem (`npm run lint`, `npm test`).
-3. Abra um Pull Request associado a uma issue/milestone e aguarde aprovação.
-4. O pipeline de CI/CD deve passar antes do merge.
 
 ## 📄 Licença
 
