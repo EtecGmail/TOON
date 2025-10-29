@@ -27,12 +27,6 @@ npm run lint       # verificação de tipos com tsc --noEmit
 npm run format     # aplica Prettier
 ```
 
-## 🎨 Princípios de Design Aplicados
-
-- **Kansō (Simplicidade)**: UI minimalista, código limpo e funções coesas.
-- **Ma (Espaço)**: espaçamento generoso, tipografia legível e ritmo visual consistente.
-- **Shibui (Sobriedade)**: paleta neutra com feedbacks sutis.
-- **Grade Tatami**: sistema de spacing modular baseado em 8px (0,5rem).
 
 ## 🛠️ Tech Stack
 
